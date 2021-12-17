@@ -1,0 +1,48 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  background: #353535;
+  color: #fff;
+}
+
+.text1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.botao1 {
+  width: 350px;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background-color: #fcc302;
+  font-size: 18px;
+}
+
+.botao2 {
+  width: 350px;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background-color: #fcc302;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.limpar {
+  width: 350px;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background-color: #fcc302;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+#botao {
+  text-align: center;
+  margin: auto;
+}
